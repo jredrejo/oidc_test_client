@@ -1,0 +1,4 @@
+django==1.11.21
+mozilla-django-oidc==1.2.2
+
+
